@@ -39,6 +39,7 @@ To avoid having to type your password in all the time, add an SSH key to your Gi
 7. Verify it works by making some trivial update to the README or somewhere and doing a `git push`
 
 ## Workshop Topics
+Test
 
 ### What are serverless platforms?
 
